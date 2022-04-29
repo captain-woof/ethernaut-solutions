@@ -1,2 +1,3 @@
-# ethernaut-solutions
-Solutions to some of Ethernaut's challenges
+# README
+
+This repo contains solutions to some of Ethernaut's challenges.
