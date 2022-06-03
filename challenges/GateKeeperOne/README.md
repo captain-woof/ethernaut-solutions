@@ -1,4 +1,4 @@
-#README
+# README
 
 What the hack contract does is that it bruteforces the amount of gas to send to the target contract's `enter(bytes8 _gateKey)` function after calculating the key to send (by bit-masking).
 
