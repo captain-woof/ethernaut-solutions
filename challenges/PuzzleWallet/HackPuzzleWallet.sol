@@ -67,7 +67,7 @@ contract HackPuzzleWallet {
             ""
         );
 
-        // 5. Make this contract as Proxy admin
+        // 5. Make caller as Proxy admin
         wallet.setMaxBalance(uint256(msg.sender));
     }
 }
